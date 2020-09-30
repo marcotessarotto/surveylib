@@ -1,4 +1,4 @@
-package it.fvg.regione.surveytest2;
+package androidadvance.com.androidsurveyexample.surveytest2;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("it.fvg.regione.surveytest2", appContext.getPackageName());
+        assertEquals("androidadvance.com.androidsurveyexample.surveytest2", appContext.getPackageName());
     }
 }

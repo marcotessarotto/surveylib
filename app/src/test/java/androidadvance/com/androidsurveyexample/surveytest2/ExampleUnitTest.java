@@ -1,4 +1,4 @@
-package it.fvg.regione.surveytest2;
+package androidadvance.com.androidsurveyexample.surveytest2;
 
 import org.junit.Test;
 
