@@ -2,15 +2,16 @@ Android Survey
 ==========================
 
 
-project upgraded to latest Android Studio 4.0.1, all dependencies upgraded etc
+## project upgraded to latest Android Studio 4.0.1, all dependencies upgraded etc
+
+
+builds with SDK version 30
+
 
 
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android%20Survey-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2780)
 
-## Sadly, I don't have time to maintain this. If you'd like to be a maintainer, drop me a message in an issue 
-
-Special thanks to https://github.com/howettl for his contribution.
 
 ## A simple to use, survey library for collecting feedback from your users.
 

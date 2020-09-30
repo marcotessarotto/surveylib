@@ -13,8 +13,6 @@ import com.androidadvance.androidsurvey.surveylib.SurveyActivity;
 import java.io.IOException;
 import java.io.InputStream;
 
-import it.fvg.regione.surveytest2.R;
-
 
 public class MainActivity extends AppCompatActivity {
 
