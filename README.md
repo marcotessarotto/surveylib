@@ -2,7 +2,7 @@ Android Survey
 ==========================
 
 
-## project upgraded to latest Android Studio 4.0.1, all dependencies upgraded etc
+## project upgraded to latest Android Studio 4.0.1, Android Jetpack, all dependencies upgraded etc
 
 
 builds with SDK version 30
