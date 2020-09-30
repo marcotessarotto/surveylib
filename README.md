@@ -7,6 +7,14 @@ Android Survey
 
 builds with SDK version 30
 
+min sdk version set to 23
+
+target sdk set to 30
+
+
+forked from https://github.com/AndreiD/surveylib
+
+
 
 
 
