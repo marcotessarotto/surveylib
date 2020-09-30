@@ -1,1 +1,3 @@
-include ':app', ':surveylib'
+include ':surveylib'
+include ':app'
+rootProject.name = "SurveyTest2"
